@@ -10,3 +10,5 @@ call using [https://geocoding-api.open-meteo.com/v1/search?name=location](https:
 3. Clicking on any result item should trigger a call to [Open Meteo API](https://open-meteo.com/en) and on
 success response current temperature in that place should be shown.
 
+have fun :)
+
